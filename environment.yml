@@ -1,0 +1,17 @@
+name: casing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - discretize=0.8.3
+  - jupyter
+  - matplotlib
+  - mkl
+  - numpy
+  - pydiso=0.0.3
+  - pymatsolver=0.2.0
+  - python=3.9.16
+  - scipy=1.9.0
+  - SimPEG=0.18.1
+  - pip:
+    - git+https://github.com/simpeg-research/casingSimulations
