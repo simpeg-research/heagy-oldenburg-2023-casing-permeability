@@ -1,6 +1,6 @@
-# heagy-oldenburg-2023-casing-permeability
+# Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells
 
-Notebooks that accompany the publication "Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells" 
+Notebooks that accompany the publication: 
 
 Heagy, L.J., Oldenburg, D.W., 2023. Impacts of magnetic permeability on electromagnetic data collected in settings with steel-cased wells. Geophysical Journal International 234, 1092–1110. https://doi.org/10.1093/gji/ggad122. 
 
