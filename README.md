@@ -19,7 +19,7 @@ To run this, you can:
    git clone https://github.com/simpeg-research/heagy-oldenburg-2023-casing-permeability.git
    ```
   
-2. Change into the `heagy-2023-geotech-symposium` directory 
+2. Change into the `heagy-oldenburg-2023-casing-permeability` directory 
    ```
    cd heagy-oldenburg-2023-casing-permeability
    ```
